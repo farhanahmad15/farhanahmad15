@@ -16,7 +16,8 @@
 
 * 👀 **autoinsight** - AI-powered automotive analysis platform
 * 💪 **momentum** - Fitness tracking and workout planning application
-* 🧠 **brainwave** - AI-powered learning platform with smart flashcards, adaptive quizzes, and next-gen study tools
+* 🤓 **memora** - brainwave's big brother, FSRS based revision, adaptive quizzes, and next-gen study tools
+* 🧠 **brainwave** - AI-powered learning platform with automatic flashcards
 * 💸 **cash** - Expenses tracking app
 * 📖 **stride** - Class and lecture tracker
 * 📚 **BAM** - Free learning resources
