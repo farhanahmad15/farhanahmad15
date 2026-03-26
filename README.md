@@ -26,7 +26,9 @@
 
 <h3 align="left">Reach Out To Me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/17872793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Fomewastaken/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmadthehumble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomem" height="30" width="40" /></a>
+</p>
 <a href="mailto:farhanisawake@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
@@ -57,3 +59,8 @@
       <img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="discord.js" width="40" height="40"/>
     </a>
 </p>
+
+## GitHub Activity
+
+<p align="left"> <img src="https://ghchart.rshah.org/farhanahmad15"/> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanahmad15&" alt="farhanahmad15" /></p>
