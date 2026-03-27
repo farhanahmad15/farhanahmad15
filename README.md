@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://farhanahmad15.github.io/Portfolio/)
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [github.com/farhanahmad15](github.com/farhanahmad15)
 - 📫 How to reach me **farhanisawake@gmail.com**
 - ⚡ Fun fact **I am a passionate gardener**
+- 🌐 Visit my website [here](farhanahmad.vercel.app)
 
 <h3 align="left">🚀 Projects</h3>
 
