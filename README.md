@@ -13,16 +13,16 @@
 - ⚡ Fun fact **I am a passionate gardener**
 
 <h3 align="left">🚀 Projects</h3>
-
-* 👀 **autoinsight** - AI-powered automotive analysis platform
-* 💪 **momentum** - Fitness tracking and workout planning application
+* 🌱 **Gardenai** - The gardening assistant I've always wanted
 * 🤓 **memora** - brainwave's big brother, FSRS based revision, adaptive quizzes, and next-gen study tools
-* 🧠 **brainwave** - AI-powered learning platform with automatic flashcards
-* 💸 **cash** - Expenses tracking app
+* 👀 **autoinsight** - AI-powered automotive analysis platform
 * 📖 **stride** - Class and lecture tracker
+* 💪 **momentum** - Fitness tracking and workout planning application
+* 🧠 **brainwave** - AI-powered learning platform with automatic flashcards
+* 👽 **Sivjar** - Completely autonomous multifunctional AI agent.
+* 💸 **cash** - Expenses tracking app
 * 📚 **BAM** - Free learning resources
 * 🤖 **apanker** - State-of-the-art feature-rich Discord bot
-* 👽 **Sivjar** - Completely autonomous multifunctional AI agent.
 
 <h3 align="left">Reach Out To Me:</h3>
 <p align="left">
