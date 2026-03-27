@@ -8,12 +8,12 @@
 
 <h3 align="center"><i>Philomath</i> and coding enthusiast 🔥</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/farhanahmad15](github.com/farhanahmad15)
-- 📫 How to reach me **farhanisawake@gmail.com**
+- 👨‍💻 All of my foss projects are available [here](github.com/farhanahmad15)
+- 📫 [Reach out to me](#reach-out-to-me)
 - ⚡ Fun fact **I am a passionate gardener**
 - 🌐 Visit my website [here](farhanahmad.vercel.app)
 
-<h3 align="left">🚀 Projects</h3>
+### 🚀 Projects
 
 * 🌱 **Gardenai** - The gardening assistant I've always wanted
 * 🤓 **memora** - brainwave's big brother, FSRS based revision, adaptive quizzes, and next-gen study tools
@@ -26,7 +26,7 @@
 * 📚 **BAM** - Free learning resources
 * 🤖 **apanker** - State-of-the-art feature-rich Discord bot
 
-<h3 align="left">Reach Out To Me:</h3>
+### Reach Out To Me
 <p align="left">
 <a href="https://www.reddit.com/user/Fomewastaken/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmadthehumble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomem" height="30" width="40" /></a>
@@ -34,35 +34,27 @@
 <a href="mailto:farhanisawake@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tech Stacks:</h3>
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="next.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="discord.js" width="40" height="40"/>
-    </a>
-</p>
+### Languages and Tech Stacks
 
-## GitHub Activity
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/Github_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+
+
+
+### GitHub Activity
 
 <p align="left"> <img src="https://ghchart.rshah.org/farhanahmad15"/> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanahmad15&" alt="farhanahmad15" /></p>
