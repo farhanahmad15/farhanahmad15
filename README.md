@@ -17,7 +17,7 @@
 
 * 🌱 **Gardenai** - The gardening assistant I've always wanted
 * 🤓 **memora** - brainwave's big brother, FSRS based revision, adaptive quizzes, and next-gen study tools
-* 👀 **autoinsight** - AI-powered automotive analysis platform
+* 👀 **autoinsight** - AI-powered meeting analysis platform
 * 📖 **stride** - Class and lecture tracker
 * 💪 **momentum** - Fitness tracking and workout planning application
 * 🧠 **brainwave** - AI-powered learning platform with automatic flashcards
