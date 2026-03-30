@@ -8,10 +8,10 @@
 
 <h3 align="center"><i>Philomath</i> and coding enthusiast 🔥</h3>
 
-- 👨‍💻 All of my foss projects are available [here](github.com/farhanahmad15)
+- 👨‍💻 All of my foss projects are available [here](https://github.com/farhanahmad15)
 - 📫 [Reach out to me](#reach-out-to-me)
 - ⚡ Fun fact **I am a passionate gardener**
-- 🌐 Visit my website [here](farhanahmad.vercel.app)
+- 🌐 Visit my website [here](https://farhanahmad.vercel.app)
 
 ### 🚀 Projects
 
