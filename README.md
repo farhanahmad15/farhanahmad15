@@ -53,6 +53,20 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 
+### My Servarr stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
+![Navidrome](https://img.shields.io/badge/Navidrome-0084FF?style=flat-square)
+![Radarr](https://img.shields.io/badge/Radarr-FFCB3D?style=flat-square&logo=radarr&logoColor=white)
+![Sonarr](https://img.shields.io/badge/Sonarr-2596BE?style=flat-square&logo=sonarr&logoColor=white)
+![Lidarr](https://img.shields.io/badge/Lidarr-068D56?style=flat-square)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-DE5D00?style=flat-square)
+![Tdarr](https://img.shields.io/badge/Tdarr-6FF3F5?style=flat-square)
+![Bazarr](https://img.shields.io/badge/Bazarr-1A1C24?style=flat-square)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white)
+![Homepage](https://img.shields.io/badge/Homepage-009BD5?style=flat-square&logo=homepage&logoColor=white)
+
+
 
 
 ### GitHub Activity
