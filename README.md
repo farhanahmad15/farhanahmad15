@@ -11,7 +11,7 @@
 - 👨‍💻 All of my foss projects are available [here](https://github.com/farhanahmad15)
 - 📫 [Reach out to me](#reach-out-to-me)
 - ⚡ Fun fact **I am a passionate gardener**
-- 🌐 Visit my website [here](https://farhanahmad.vercel.app)
+- 🌐 Visit my website [here](https://iamfarhan.me.)
 
 ### 🚀 Projects
 
